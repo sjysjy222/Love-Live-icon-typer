@@ -1,5 +1,9 @@
 This is a python project which aims to help people type the emoji icons of LoveLive! Idols.
 
+
+oshi_typer is the main Python program.
+
+
 Inputting the romanized name of idol will return responding emoji.
 
 Example: 
