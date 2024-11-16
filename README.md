@@ -4,12 +4,14 @@ Inputting the romanized name of idol will return responding emoji.
 
 Example: 
 [in]ayumu+(Pressing Space)
+
 [out]🎀
 
 Inputting idol name plus 'koi' will return responding Gachikoi Koujou.
 
 Example:
 [in]ayumukoi+(Pressing Space)
+
 [out]言いたいことがあるんだよ！
 やっぱ🎀🎀🎀ちゃんはかわいいよ！
 好き好き大好きやっぱ好き！
@@ -24,4 +26,5 @@ Inputting 'break' will end this program.
 
 Example:
 [in]break+(Pressing Space)
+
 [out]程序已中止
